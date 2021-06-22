@@ -21,7 +21,7 @@ ganache-cli
 This assumes you already have Ganache running and have performed
 the above migration steps.
 
-1. Clone `https://github.com/graphprotocol/graph-node/`
+1. Clone ```sh https://github.com/graphprotocol/graph-node/ ```
 2. Enter the Graph Node's Docker directory:
    ```sh
    cd graph-node/docker
